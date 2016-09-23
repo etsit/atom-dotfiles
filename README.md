@@ -1,2 +1,1 @@
-# atom-dotfiles
-Personal Atom.io configuration
+# Personal Atom.io configuration

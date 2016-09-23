@@ -1,0 +1,19 @@
+"*":
+  core:
+    themes: [
+      "one-dark-ui"
+      "one-dark-syntax"
+    ]
+  editor:
+    fontSize: 16
+    invisibles: {}
+  "exception-reporting":
+    userId: "148f2bf6-2d5c-b1a0-1f3a-77cabd63937e"
+  "ide-haskell": {}
+  "ionide-fsharp":
+    MonoPath: "/usr/local/bin"
+  "ionide-fsi": {}
+  "ionide-paket":
+    MonoPath: "/usr/local/bin"
+  welcome:
+    showOnStartup: false
